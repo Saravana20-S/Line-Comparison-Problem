@@ -1,6 +1,5 @@
 package com.oops.linecomparison;
 
-
 import java.util.Scanner;
 
 public class LineComparison {
